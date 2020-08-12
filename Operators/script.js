@@ -50,4 +50,3 @@ let isChecked = true,
 
 console.log(isChecked && !isClose)
 console.log(isChecked || isClose)
-console.log(isChecked || isClose)
