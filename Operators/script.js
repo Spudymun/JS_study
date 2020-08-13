@@ -53,4 +53,3 @@ console.log(isChecked || isClose)
 console.log(isChecked || isClose)
 console.log('LOH')
 
-console.log('LOH3')
